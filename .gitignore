@@ -11,5 +11,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 .idea/
-dirty_imgs/mud_/
-dirty_imgs/water_/
+dirty_imgs/mud/
+dirty_imgs/water/
