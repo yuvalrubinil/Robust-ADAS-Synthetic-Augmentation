@@ -8,6 +8,7 @@ This project focuses on enhancing the reliability of Advanced Driver Assistance 
 To solve this, we developed a Robust Synthetic Augmentation Pipeline. Instead of relying on rare and expensive real world data collection, we engineered a suite of filters that simulate physical driving challenges on clean, high quality ADAS camera feeds.
 
 ### Visual abstract
+```mermaid
     graph LR
     %% Input Source
     Clean[Clean ADAS Image] --> MaskGen
@@ -33,6 +34,7 @@ To solve this, we developed a Robust Synthetic Augmentation Pipeline. Instead of
     style Engine fill:#616161,stroke:#1565C0,stroke-width:2px
     style Results stroke:#4CAF50
     style Dataset stroke:#795548
+```
 
 
 ### Dataset used
