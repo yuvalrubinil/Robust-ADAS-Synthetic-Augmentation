@@ -1,7 +1,7 @@
 # Robust ADAS Synthetic Augmentation
 <p>
-  <img src="visuals/kitti_dirty_finetune_v3_visuals/02_000348_imp_9_gt.png" width="400" />
-  <img src="visuals/kitti_dirty_finetune_v3_visuals/02_000348_imp_9_finetuned.png" width="400" />
+  <img src="visuals/kitti_dirty_finetune_v3_visuals/test/001187_mud.png_imp_4_gt.png" width="400" />
+  <img src="visuals/kitti_dirty_finetune_v3_visuals/test/001187_mud.png_imp_4_finetuned.png" width="400" />
   <br>
 </p>
 This project focuses on enhancing the reliability of Advanced Driver Assistance Systems (ADAS) by addressing the "visibility gap" in computer vision. While modern object detection models perform exceptionally well in clear weather, their precision often collapses when faced with environmental hazards like rain or mud contamination.
