@@ -13,7 +13,7 @@ cache: false
 device: '0'
 workers: 8
 project: null
-name: kitti_dirty_finetune_v4g
+name: kitti_dirty_finetune_v4
 exist_ok: true
 pretrained: true
 optimizer: auto
