@@ -97,3 +97,8 @@ The fine-tuned model significantly outperformed standard models on corrupted ADA
 ├── .gitignore          # Standard git ignore file
 └── README.md           # Project documentation and overview
 ```
+
+## Team Members
+- Guy Yogev
+- Shahaf Levi
+- Yuval Rubin
